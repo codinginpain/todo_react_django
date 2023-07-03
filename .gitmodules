@@ -1,0 +1,3 @@
+[submodule "submodule_front"]
+	path = submodule_front
+	url = https://github.com/codinginpain/submodule_front.git
